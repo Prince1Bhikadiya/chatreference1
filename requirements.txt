@@ -1,35 +1,12 @@
-# Core libraries
 tensorflow>=2.11.0
 keras>=2.11.0
-datasets>=2.8.0
-sentencepiece>=0.1.96
-
-# Natural language processing (NLP)
 nltk>=3.7
 spacy>=3.4.4
 gensim>=4.2.0
 textblob>=0.17.1
-
-# JSON handling
-
-
-# Chatbot framework
-twilio # or other messaging platform SDK
-
-
-# Web framework
 Flask
 fastapi
 Werkzeug==2.2.2
-
-# Logging
-logging
-
-# Testing
 pytest
 pytest-cov
-
-# Other
-requests
-beautifulsoup4
 pandas
