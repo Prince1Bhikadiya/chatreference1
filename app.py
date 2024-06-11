@@ -17,5 +17,4 @@ def chat():
     response = chatbot_response(user_message)
     return jsonify({"response": response})
 
-if __name__ == "__main__":
-    app.run(debug=True)
+

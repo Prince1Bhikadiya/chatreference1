@@ -25,8 +25,9 @@ mysqlclient>=2.1.1 # for MySQL
 sqlite3 # built-in for SQLite
 
 # Web framework
-flask>=2.2.2
+Flask>=2.2.2
 fastapi>=0.88.0
+Werkzeug==2.2.2
 
 # Logging
 logging
