@@ -1,0 +1,42 @@
+# Core libraries
+python>=3.7
+tensorflow>=2.11.0
+keras>=2.11.0
+datasets>=2.8.0
+sentencepiece>=0.1.96
+
+# Natural language processing (NLP)
+nltk>=3.7
+spacy>=3.4.4
+gensim>=4.2.0
+textblob>=0.17.1
+
+# JSON handling
+json
+
+# Chatbot framework
+rasa>=3.4.4 # or other chatbot framework like Dialogflow, Botpress, etc.
+python-telegram-bot>=13.13
+twilio>=6.66.0 # or other messaging platform SDK
+
+# Database
+psycopg2>=2.9.6 # for PostgreSQL
+mysqlclient>=2.1.1 # for MySQL
+sqlite3 # built-in for SQLite
+
+# Web framework
+flask>=2.2.2
+fastapi>=0.88.0
+
+# Logging
+logging
+
+# Testing
+pytest>=7.2.1
+pytest-cov>=3.1.0
+
+# Other
+requests>=2.28.2
+beautifulsoup4>=4.11.1
+pandas>=1.5.2
+matplotlib>=3.6.2
