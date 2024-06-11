@@ -1,5 +1,4 @@
 # Core libraries
-python
 tensorflow>=2.11.0
 keras>=2.11.0
 datasets>=2.8.0
