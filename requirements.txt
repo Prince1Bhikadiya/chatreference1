@@ -14,28 +14,24 @@ textblob>=0.17.1
 
 
 # Chatbot framework
-rasa>=3.4.4 # or other chatbot framework like Dialogflow, Botpress, etc.
-
-twilio>=6.66.0 # or other messaging platform SDK
+twilio # or other messaging platform SDK
 
 # Database
-psycopg2>=2.9.6 # for PostgreSQL
-mysqlclient>=2.1.1 # for MySQL
-sqlite3 # built-in for SQLite
+psycopg2
 
 # Web framework
-Flask>=2.2.2
-fastapi>=0.88.0
+Flask
+fastapi
 Werkzeug==2.2.2
 
 # Logging
 logging
 
 # Testing
-pytest>=7.2.1
-pytest-cov>=3.1.0
+pytest
+pytest-cov
 
 # Other
-requests>=2.28.2
-beautifulsoup4>=4.11.1
-pandas>=1.5.2
+requests
+beautifulsoup4
+pandas
