@@ -16,8 +16,6 @@ textblob>=0.17.1
 # Chatbot framework
 twilio # or other messaging platform SDK
 
-# Database
-psycopg2
 
 # Web framework
 Flask
