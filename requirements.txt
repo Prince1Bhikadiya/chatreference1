@@ -4,9 +4,12 @@ nltk>=3.7
 spacy>=3.4.4
 gensim>=4.2.0
 textblob>=0.17.1
-Flask
-fastapi
+flask
 Werkzeug==2.2.2
-pytest
 pytest-cov
 pandas
+gunicorn
+
+nltk
+numpy
+
